@@ -1,6 +1,6 @@
 # ORBITx — Interactive 3D Knowledge Graph Builder
 
-> AI-powered Career Intelligence Platform that transforms GitHub activity, Notion notes, and certifications into measurable hiring intelligence using AI reasoning and interactive 3D knowledge graphs.
+> AI-powered Career Intelligence Platform that transforms GitHub activity into measurable hiring intelligence using AI reasoning and interactive 3D knowledge graphs.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Cost](https://img.shields.io/badge/Cost-$0-green.svg)
